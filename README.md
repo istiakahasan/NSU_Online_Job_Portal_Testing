@@ -1,4 +1,5 @@
-# 🧪 NSU Online Jobs Portal – Automated & Manual QA Test 
+# 🧪 NSU Online Jobs Portal
+# Automated & Manual QA Test 
 
 [![Selenium](https://img.shields.io/badge/Selenium-WebDriver-43B02A?logo=selenium&logoColor=white)](https://www.selenium.dev/)
 [![JUnit 5](https://img.shields.io/badge/JUnit-5-25A162?logo=junit5&logoColor=white)](https://junit.org/junit5/)
